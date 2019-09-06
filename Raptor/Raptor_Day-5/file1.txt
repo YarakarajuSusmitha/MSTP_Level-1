@@ -1,0 +1,2 @@
+File is created with the text using Redirect_Output()
+This is the second line in this file.
